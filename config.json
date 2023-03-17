@@ -1,0 +1,8 @@
+{
+    "api_id" : 0,
+    "api_hash" : "API_HASH_HERE",
+    "bot_name" : "BOT_NAME",
+    "bot_username" : "usernamebot",
+    "bot_token" : "BOT_TOKEN_HERE",
+    "admin" : "admin_username"
+}
